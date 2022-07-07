@@ -1,1 +1,1 @@
-# JavaStreamLab
+# streamquerylab
